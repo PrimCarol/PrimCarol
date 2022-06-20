@@ -7,7 +7,7 @@
 
 * Assembly language / C / C++ / C# / OpenGL
 
-### Currently studying HDN in Computing at
+### Currently studying HDN in Computing at 🔽
 <img src= "https://github.com/PrimCarol/PrimCarol/blob/main/ESAT_LOGO_0.png" width="256" />
 
 - 🌱 I’m currently learning Unreal Engine 5 
