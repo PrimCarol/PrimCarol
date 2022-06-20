@@ -5,10 +5,10 @@
 
 ~~I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.~~
 
-Skills: Assembly language / C / C++ / C# / OpenGL
+* Assembly language / C / C++ / C# / OpenGL
 
+### Currently studying HDN in Computing at
 <img src= "https://github.com/PrimCarol/PrimCarol/blob/main/ESAT_LOGO_0.png" width="256" />
-Esat Degress 
 
 - 🌱 I’m currently learning Unreal Engine 5 
 
