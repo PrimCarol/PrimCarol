@@ -7,7 +7,7 @@
 
 Skills: Assembly language / C / C++ / C# / OpenGL
 
-(https://www.esat.es/wp-content/uploads/logo-esat-gif-animado-transparente.gif)
+<img src= "https://www.esat.es/wp-content/uploads/logo-esat-gif-animado-transparente.gif" width="256" />
 
 - 🔭 I’m currently working on Esat Degress 
 - 🌱 I’m currently learning Unreal Engine 5 
