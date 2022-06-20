@@ -4,7 +4,7 @@
 <h4 align="center"> Game Developer - Programmer </h2>
 
 
-~~Some description == ~~
+~~Some description~~ // 
 ~~Assembly language / C / C++ / C# / OpenGL~~
 
 
