@@ -3,9 +3,10 @@
 <h1 align="center"> Hi there 👋, Pere Prim </h1>
 <h4 align="center"> Game Developer - Programmer </h2>
 
-~~Work in progress~~
 
-* Assembly language / C / C++ / C# / OpenGL
+~~Some description~~
+~~Assembly language / C / C++ / C# / OpenGL~~
+
 
 ### Currently studying HDN in Computing at 🔽
 <img src= "https://github.com/PrimCarol/PrimCarol/blob/main/ESAT_LOGO_0.png" width="256" />
