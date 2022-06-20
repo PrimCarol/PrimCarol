@@ -7,7 +7,7 @@
 
 Skills: Assembly language / C / C++ / C# / OpenGL
 
-<img src= "https://github.com/PrimCarol/PrimCarol/blob/main/ESAT_LOGO.png" width="256" />
+<img src= "https://github.com/PrimCarol/PrimCarol/blob/main/ESAT_LOGO_2.png" width="256" />
 Esat Degress 
 
 - 🌱 I’m currently learning Unreal Engine 5 
