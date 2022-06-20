@@ -1,7 +1,7 @@
 ![Game Developer - Programmer](https://github.com/PrimCarol/PrimCarol/blob/main/Fondo_Perfil_2.png)
 
 <h1 align="center"> Hi there 👋, Pere Prim </h1>
-<h2> Game Developer - Programmer </h2>
+<h3 align="center"> Game Developer - Programmer </h2>
 
 ~~I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.~~
 
