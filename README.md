@@ -1,6 +1,7 @@
-### Hi there 👋, Pere Prim
-#### Game Developer - Programmer
 ![Game Developer - Programmer](https://github.com/PrimCarol/PrimCarol/blob/main/Fondo_Perfil_2.png)
+
+# Hi there 👋, Pere Prim
+## Game Developer - Programmer
 
 ~~I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.~~
 
