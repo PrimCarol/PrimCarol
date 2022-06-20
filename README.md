@@ -1,7 +1,7 @@
 ![Game Developer - Programmer](https://github.com/PrimCarol/PrimCarol/blob/main/Fondo_Perfil_2.png)
 
 <h1 align="center"> Hi there 👋, Pere Prim </h1>
-<h3 align="center"> Game Developer - Programmer </h2>
+<h4 align="center"> Game Developer - Programmer </h2>
 
 ~~Work in progress~~
 
