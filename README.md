@@ -5,7 +5,7 @@
 
 
 ~~Some description~~ // 
-~~Assembly language / C / C++ / C# / OpenGL / SQL ~~
+~~Assembly language / C / C++ / C# / OpenGL / SQL~~
 
 
 <h3> Currently studying HDN in Computing at 🔽 </h3>
