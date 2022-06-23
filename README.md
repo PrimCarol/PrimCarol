@@ -18,7 +18,7 @@
 <h4> * Asteroids </h4>
 
 <h4 align="center"> Some of the projects of the <b>second</b> year </h4>
-<h4> * SQL Viwer </h4>
+<h4> * SQL Viwer using ImGui </h4>
 
 <h4> * ADT in C and C++ </h4>
 
