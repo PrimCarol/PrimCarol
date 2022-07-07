@@ -10,7 +10,7 @@
 
 <h3> Currently studying HDN in Computing at 🔽 </h3>
 <img src= "https://github.com/PrimCarol/PrimCarol/blob/main/ESAT_LOGO_0.png" width="256" />
-<h4 align="center"> .: Some of the projects of the <b>first</b> year :. </h4>
+<h4 align="center"> .: Some of the projects of the first year :. </h4>
 
 <h4> * Frogger </h4>
 
