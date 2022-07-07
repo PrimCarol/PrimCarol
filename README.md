@@ -11,6 +11,8 @@
 <h3> Currently studying HDN in Computing at 🔽 </h3>
 <img src= "https://github.com/PrimCarol/PrimCarol/blob/main/ESAT_LOGO_0.png" width="256" />
 <h4 align="center"> Some of the projects of the <b>first</b> year </h4>
+<br/>
+
 <h4> * Frogger </h4>
 
 <h4> * Jetpac </h4>
@@ -18,6 +20,8 @@
 <h4> * Asteroids </h4>
 
 <h4 align="center"> Some of the projects of the <b>second</b> year </h4>
+<br/>
+
 <h4> * SQL Viwer using ImGui </h4>
 
 <h4> * ADT in C and C++ </h4>
