@@ -12,17 +12,17 @@
 <img src= "https://github.com/PrimCarol/PrimCarol/blob/main/ESAT_LOGO_0.png" width="256" />
 <h4 align="center"> .: Some of the projects of the first year :. </h4>
 
-<h4> * Frogger </h4>
+<h4> * Frogger - With the school engine </h4>
 
-<h4> * Jetpac </h4>
+<h4> * Jetpac - With the school engine </h4>
 
-<h4> * Asteroids </h4>
+<h4> * Asteroids - With the school engine </h4>
 
 <h4 align="center"> .: Some of the projects of the second year :. </h4>
 
-<h4> * SQL Viwer using ImGui </h4>
+<h4> * SQL Viwer using ImGui on SFML</h4>
 
-<h4> * ADT (Advance data type) in C and C++ </h4>
+<h4> * ADT (Advance data type) in C and C++ from scratch </h4>
 
 <h4> * Grafic API with OpenGL </h4>
 
