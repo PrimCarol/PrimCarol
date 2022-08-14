@@ -22,7 +22,7 @@
 
 <h4> * SQL Viwer using ImGui </h4>
 
-<h4> * ADT in C and C++ </h4>
+<h4> * ADT (Advance data type) in C and C++ </h4>
 
 <h4> * Grafic API with OpenGL </h4>
 
